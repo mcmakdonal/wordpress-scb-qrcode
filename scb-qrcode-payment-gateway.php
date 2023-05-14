@@ -10,10 +10,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:   SCB QRCODE Payment Gateway
- * Plugin URI:    https://rubdev.xyz
  * Description:   SCB QRCODE Payment Gateway
  * Version:       1.0.0
- * Author:        Natdanai
+ * Author:        Rubdev
  * Author URI:    https://rubdev.xyz
  * Text Domain:   scb-qrcode-payment-gateway
  * Domain Path:   /languages
